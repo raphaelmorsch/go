@@ -1,4 +1,4 @@
-module github.com/crud-api
+module projects/crud-api
 
 go 1.17
 
